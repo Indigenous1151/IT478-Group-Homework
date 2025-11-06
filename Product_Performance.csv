@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Category,Price,Quantity_Sold,Rating,Brand
+1,Ultra Pro Running Shoes,Footwear,129.99,1250,4.7,Nike
+2,Classic Leather Backpack,Accessories,89.99,890,4.5,Timberland
+3,Wireless Noise-Canceling Headphones,Electronics,199.99,2100,4.8,Sony
+4,Performance Running Shorts,Apparel,49.99,1520,4.4,Adidas
+5,Stainless Steel Water Bottle,Sports,34.99,3200,4.6,Hydro Flask
+6,Yoga Mat Premium,Sports,59.99,1680,4.7,Manduka
+7,Smartphone Screen Protector,Electronics,12.99,5600,4.2,Spigen
+8,Casual Cotton T-Shirt,Apparel,24.99,4100,4.3,Uniqlo
+9,Professional Camera Bag,Accessories,149.99,520,4.9,Lowepro
+10,Memory Foam Pillow,Home,79.99,1200,4.5,Tempur-Pedic
+11,Portable Phone Charger,Electronics,39.99,2800,4.4,Anker
+12,Winter Thermal Jacket,Apparel,189.99,650,4.6,Columbia
+13,Bamboo Desk Organizer,Home,44.99,2300,4.1,Simple Houseware
+14,LED Desk Lamp,Home,64.99,1900,4.5,TaoTronics
+15,Bluetooth Speaker,Electronics,99.99,3100,4.6,JBL
+16,Compression Running Socks,Apparel,19.99,4800,4.3,Smartwool
+17,Travel Luggage Set,Accessories,249.99,380,4.7,Samsonite
+18,Fitness Resistance Bands,Sports,29.99,2600,4.4,Rogue Fitness
+19,Ergonomic Mouse Pad,Accessories,34.99,3400,4.2,Corsair
+20,Coffee Maker,Home,119.99,1100,4.5,Cuisinart
+21,Anti-Glare Blue Light Glasses,Accessories,59.99,1700,4.3,DIFF Eyewear
+22,Lightweight Hiking Boots,Footwear,159.99,720,4.8,Salomon
+23,Moisture-Wicking Undershirt,Apparel,34.99,3500,4.4,Under Armour
+24,Digital Bathroom Scale,Home,49.99,2200,4.4,Withings
+25,Portable USB-C Hub,Electronics,79.99,1600,4.5,Hyper
+26,Canvas Crossbody Bag,Accessories,99.99,950,4.6,Tom Bihn
+27,Collapsible Water Bottle,Sports,24.99,4200,4.2,Nomader
+28,Premium Bed Sheets Set,Home,129.99,1300,4.7,Brooklinen
+29,Wireless Phone Charger,Electronics,44.99,2900,4.3,Belkin
+30,Athletic Training Gloves,Sports,39.99,1950,4.5,Everlast
+31,Stainless Steel Thermos,Accessories,49.99,2700,4.6,Stanley
+32,Casual Sneakers,Footwear,99.99,1800,4.4,Converse
+33,Gaming Mouse,Electronics,69.99,2150,4.7,Logitech
+34,Infinity Scarf,Apparel,29.99,3100,4.3,J.Crew
+35,Plant Pot with Drainage,Home,39.99,2400,4.2,Greendigs
+36,Professional Yoga Blocks,Sports,44.99,1650,4.6,Hugger Mugger
+37,Protective Phone Case,Accessories,24.99,5100,4.1,OtterBox
+38,Fleece Lined Hoodie,Apparel,79.99,1400,4.5,Patagonia
+39,USB-C Lightning Cable,Electronics,19.99,6200,4.2,Anker
+40,Bamboo Cutting Board Set,Home,54.99,1750,4.4,Carving
+41,Professional Tennis Racket,Sports,179.99,480,4.8,Wilson
+42,Designer Sunglasses,Accessories,149.99,890,4.6,Ray-Ban
+43,Minimalist Slip-On Shoes,Footwear,79.99,2000,4.3,Allbirds
+44,Reversible Belt,Accessories,44.99,2200,4.4,Perry Ellis
+45,4K Webcam,Electronics,129.99,1400,4.7,Logitech
+46,Insulated Lunch Box,Sports,59.99,2100,4.5,Yeti
+47,Organic Cotton Pillow Case,Home,39.99,2800,4.3,Parachute
+48,Casual Linen Pants,Apparel,69.99,1600,4.4,Banana Republic
+49,Mechanical Keyboard,Electronics,149.99,1200,4.8,Corsair
+50,Professional Backpack,Accessories,179.99,650,4.7,Peak Design
+51,Running Belt with Pockets,Sports,34.99,2300,4.2,Salomon
+52,Winter Boots,Footwear,189.99,780,4.6,Timberland
+53,Wireless Mouse,Electronics,44.99,3800,4.4,Logitech
+54,Compression Leggings,Apparel,59.99,1900,4.5,Lululemon
+55,Marble Desk Organizer,Home,69.99,1400,4.3,CB2
+56,Smart Fitness Watch,Electronics,199.99,1100,4.7,Garmin
+57,Canvas Tote Bag,Accessories,59.99,2600,4.5,Everlane
+58,Sports Hydration System,Sports,89.99,950,4.6,Klean Kanteen
+59,Minimalist Wallet,Accessories,44.99,3200,4.4,Bellroy
+60,Premium Athletic Socks,Apparel,34.99,4400,4.3,Darn Tough
+61,Ceramic Non-Stick Cookware Set,Home,199.99,850,4.7,Caraway
+62,Slip-On Work Shoes,Footwear,119.99,1100,4.4,Dansko
+63,USB Hub Adapter,Electronics,34.99,3600,4.3,HyperDrive
+64,Merino Wool Base Layer,Apparel,89.99,1200,4.6,Icebreaker
+65,Standing Desk Converter,Home,249.99,620,4.8,Flexispot
+66,Crossbody Chest Bag,Accessories,74.99,1800,4.5,Peak Design
+67,Portable Power Bank,Electronics,64.99,2400,4.5,Anker
+68,Lightweight Packing Cubes,Accessories,39.99,2900,4.3,Away
+69,Marathon Training Shoes,Footwear,169.99,920,4.8,Asics
+70,Moisture-Wicking Base Layer Set,Apparel,99.99,1400,4.6,Smart Wool
+71,Air Purifier,Home,299.99,550,4.7,Dyson
+72,Wireless Earbuds,Electronics,179.99,1800,4.6,Apple AirPods
+73,Eco-Friendly Lunch Box,Sports,49.99,2500,4.4,Stainless
+74,Premium Desk Lamp,Home,89.99,1300,4.5,BenQ
+75,Fashion Crossbody Purse,Accessories,129.99,1100,4.5,Coach
+76,High-Performance Running Socks,Apparel,24.99,5200,4.4,Balega
+77,External Hard Drive,Electronics,99.99,2000,4.5,Seagate
+78,Lightweight Daypack,Accessories,89.99,1600,4.6,Osprey
+79,Professional Golf Shoes,Footwear,199.99,480,4.7,FootJoy
+80,Thermal Compression Tights,Apparel,79.99,1300,4.5,2XU
+81,Monitor Light Bar,Electronics,79.99,1700,4.6,BenQ
+82,Bamboo Drawer Dividers,Home,34.99,3100,4.2,Simple Houseware
+83,Lightweight Scarf,Apparel,44.99,2700,4.3,Infinity
+84,Sport Water Bottle Carrier,Accessories,24.99,4100,4.2,CamelBak
+85,Tablet Stand,Home,44.99,2600,4.4,Twelve South
+86,Wireless Keyboard,Electronics,69.99,2200,4.5,Logitech
+87,Anti-Fatigue Mat,Home,79.99,1500,4.6,Imprint
+88,Stylish Gym Bag,Sports,99.99,1350,4.5,Adidas
+89,Designer Phone Wallet,Accessories,59.99,2100,4.4,Fossil
+90,Canvas Work Boots,Footwear,139.99,820,4.6,Carhartt
+91,USB-C Docking Station,Electronics,199.99,1300,4.7,CalDigit
+92,Premium Yoga Pants,Apparel,129.99,1200,4.6,Lululemon
+93,Wooden Pen Organizer,Home,39.99,2400,4.3,Desk Essentials
+94,Compact Camera,Electronics,459.99,320,4.8,Sony
+95,Travel Adapter,Accessories,34.99,3800,4.3,Rav Power
+96,Casual Canvas Shoes,Footwear,89.99,2100,4.3,Vans
+97,Technical Base Layer,Apparel,69.99,1800,4.5,Arc'teryx
+98,Ceramic Coffee Mug Set,Home,49.99,2800,4.4,Le Creuset
+99,Portable Projector,Electronics,399.99,480,4.7,Anker
+100,Outdoor Adventure Pack,Accessories,249.99,650,4.8,Fjallraven

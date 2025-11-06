@@ -31,12 +31,12 @@ df = pd.read_csv("Product_Performance.csv")
 cur.execute("""
     CREATE TABLE IF NOT EXISTS product_data (
         productid     INTEGER  PRIMARY KEY,
-        product_name  TEXT     NOT NULL,
-        category      TEXT     NOT NULL,
-        price         REAL     NOT NULL,
+        product_name  VARCHAR  NOT NULL,
+        category      VARCHAR  NOT NULL,
+        price         DOUBLE   NOT NULL,
         quantity_sold INTEGER  NOT NULL,
-        rating        REAL     NOT NULL,
-        brand         TEXT     NOT NULL
+        rating        FLOAT    NOT NULL,
+        brand         VARCHAR  NOT NULL
     )
 """)
 
